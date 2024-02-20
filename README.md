@@ -1,4 +1,8 @@
-### Hi there 👋
+## ne1ro
+
+**Software/Solutions Architect, functional programming, Elixir/Erlang, Clojure, DevOps**
+
+https://neiro.io
 
 <!--
 **ne1ro/ne1ro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
